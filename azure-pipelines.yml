@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: DESKTOP-QS3ADJ4
+pool: Default
 strategy:
   matrix:
     Python27:
