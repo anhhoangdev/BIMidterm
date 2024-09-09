@@ -65,7 +65,7 @@ The data is stored in **Azure Blob Storage** for further processing.
 
 ## Modeling
 
-![Method Overview](Images\Method_Overview.png)
+![Method Overview](Images/Method_Overview.png)
 
 In this project, the **Lexicon-Based Sentiment Analysis** follows a **double approach** where the local phase is used to optimize the lexicon dictionary, and the cloud phase handles both **Latent Dirichlet Allocation (LDA)** and **Sentiment Analysis** on the customer reviews.
 
@@ -130,7 +130,7 @@ For the Lexicon-based sentiment model, the major complaints were related to:
 
 **Figure: Complaint Topics by Brands**
 
-![Complaint Topics by Brands](Images\Topic_Complaint_By_Brand.png)
+![Complaint Topics by Brands](Images/Topic_Complaint_By_Brand.png)
 
 ---
 
