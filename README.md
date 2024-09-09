@@ -6,6 +6,14 @@ This project focuses on **Big Data Analytics** by leveraging two primary methods
 
 ---
 
+## Team Members
+- Trần Hoàng Anh (K214162143)
+- Lê Quốc Dân An (K214162140)
+- Cao Nguyễn Hải Như (K214162148)
+- Trần Thị Minh Hiền (K214160989)
+
+---
+
 ## Table of Contents
 
 1. [Technologies Used](#technologies-used)
